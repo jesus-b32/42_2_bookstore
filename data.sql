@@ -1,4 +1,4 @@
-\c books
+\c books_test
 
 DROP TABLE IF EXISTS books;
 
